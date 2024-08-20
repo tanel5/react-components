@@ -5,7 +5,7 @@ list of react components:
 -feature flag
 -github profile finder
 -image slider
--light/dark mode
+-light/dark mode 
 -load more data
 -qr code generator
 -random color
