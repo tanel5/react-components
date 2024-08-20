@@ -1,23 +1,23 @@
-list of react components:
--accordion menu
--custom modal popup
--custom tabs
--feature flag
--github profile finder
--image slider
--light/dark mode 
--load more data
--qr code generator
--random color
--scroll indicator
--scroll to top and bottom
--search autocomplete with api
--star rating
--tic tac toe
--tree view
--use fetch
--use outside click
--use windows resize
+list of react components:  
+-accordion menu  
+-custom modal popup  
+-custom tabs  
+-feature flag  
+-github profile finder  
+-image slider  
+-light/dark mode   
+-load more data  
+-qr code generator  
+-random color  
+-scroll indicator  
+-scroll to top and bottom  
+-search autocomplete with api  
+-star rating  
+-tic tac toe  
+-tree view  
+-use fetch  
+-use outside click  
+-use windows resize  
 
 # Getting Started with Create React App
 
